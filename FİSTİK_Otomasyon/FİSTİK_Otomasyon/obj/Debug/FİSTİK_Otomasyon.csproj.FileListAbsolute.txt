@@ -1,0 +1,88 @@
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\bin\Debug\FİSTİK_Otomasyon.exe.config
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\bin\Debug\FİSTİK_Otomasyon.exe
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\bin\Debug\FİSTİK_Otomasyon.pdb
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmGiris.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.Properties.Resources.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.exe
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.pdb
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmAnaMenu.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmCalısan_Bilgilerini_Guncelle.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmFatura.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmHakkımızda.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmMusteri_Bilgilerini_Guncelle.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmMusteri_Ekle.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmUcret_Hesapla.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmNakliyeci_Ayarları.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmSifremi_Unuttum.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmMesaj_At.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmYonetici_Kayıt.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmSaha_Goruntule.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\bin\Debug\FİSTİK_Otomasyon.exe.config
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\bin\Debug\FİSTİK_Otomasyon.exe
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\bin\Debug\FİSTİK_Otomasyon.pdb
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.csprojAssemblyReference.cache
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmAnaMenu.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmCalısan_Bilgilerini_Guncelle.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmFatura.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmGiris.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmHakkımızda.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmMesaj_At.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmMusteri_Bilgilerini_Guncelle.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmMusteri_Ekle.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmNakliyeci_Ayarları.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmSaha_Goruntule.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmSifremi_Unuttum.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmUcret_Hesapla.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmYonetici_Kayıt.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.Properties.Resources.resources
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.exe
+C:\Users\Hüseyin TUNGA\A_C#Projeleri\repos\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.pdb
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\bin\Debug\FİSTİK_Otomasyon.exe.config
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\bin\Debug\FİSTİK_Otomasyon.exe
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\bin\Debug\FİSTİK_Otomasyon.pdb
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.csprojAssemblyReference.cache
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmAnaMenu.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmCalısan_Bilgilerini_Guncelle.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmFatura.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmGiris.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmHakkımızda.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmMesaj_At.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmMusteri_Bilgilerini_Guncelle.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmMusteri_Ekle.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmNakliyeci_Ayarları.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmSaha_Goruntule.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmSifremi_Unuttum.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmUcret_Hesapla.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmYonetici_Kayıt.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.Properties.Resources.resources
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.exe
+C:\Users\Hüseyin TUNGA\A_Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.pdb
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\bin\Debug\FİSTİK_Otomasyon.exe.config
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\bin\Debug\FİSTİK_Otomasyon.exe
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\bin\Debug\FİSTİK_Otomasyon.pdb
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.csproj.AssemblyReference.cache
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmAnaMenu.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmCalısan_Bilgilerini_Guncelle.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmFatura.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmGiris.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmHakkımızda.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmMesaj_At.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmMusteri_Bilgilerini_Guncelle.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmMusteri_Ekle.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmNakliyeci_Ayarları.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmSaha_Goruntule.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmSifremi_Unuttum.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmUcret_Hesapla.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.FrmYonetici_Kayıt.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.Properties.Resources.resources
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.exe
+C:\Users\Hüseyin TUNGA\Fıstık İşleme Tesisi Yönetim Otomasyonu\Projenin Saf Kod Hali\FİSTİK_Otomasyon\FİSTİK_Otomasyon\obj\Debug\FİSTİK_Otomasyon.pdb
