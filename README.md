@@ -1,2 +1,2 @@
-Bu depoda Visual Studio editörünü kullanarak yaptığım Otomasyon projelerini sunuyorum.
-Bu otomasyonları eğitim hayatımda, kişisel gelişimim aşamasında, müşteri ihtiyaçları sırasında yapmış bulunmaktayım. 
+2022 yılında Fırat Üniversitesi 2.Sınıf güz döneminde Nesne Tabanlı Programla dersi doğrultusundan gerçekleştirmiş olduğum , Fıstık İşleme Tesisi Yönetim Otomasyonu.
+C#, Visual Studio Windows Forms araçları ve MSSQL kullanarak yaptım
